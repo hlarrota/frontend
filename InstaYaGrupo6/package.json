@@ -4,8 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    
-    "dev": "vite -- backend-production-41bc.up.railway.app",
+    "dev": "vite --host --port 3000",
     "build": "vite build",
     "preview": "vite preview"
   },
